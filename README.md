@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helo World! I'M JAVARADIT👋
 
 <!--
 **JAVARADIT/JAVARADIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
